@@ -1,0 +1,19 @@
+{
+  "name": "soajs.installer.versions",
+  "description": "soajs installer versions",
+  "version": "1.0.0",
+  "author": {
+    "name": "soajs team",
+    "email": "team@soajs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:soajs/soajs.installer.versions.git"
+  },
+  "license": "Apache-2.0",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  }
+}

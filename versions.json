@@ -1,0 +1,116 @@
+{
+  "latest": "kanyu",
+  "serviceLabels": {
+    "soajs.controller": {
+      "label": "Gateway",
+      "service": "gateway",
+      "type": "any"
+    },
+    "soajs.urac": {
+      "label": "URAC",
+      "service": "urac",
+      "type": "any"
+    },
+    "soajs.oauth": {
+      "label": "oAuth",
+      "service": "oauth",
+      "type": "any"
+    },
+    "soajs.multitenant": {
+      "label": "Multitenant",
+      "service": "multitenant",
+      "type": "any"
+    },
+    "soajs.dashboard": {
+      "label": "Console",
+      "service": "dashboard",
+      "type": "console"
+    },
+    "soajs.dashboard.ui": {
+      "label": "Console UI",
+      "service": "ui",
+      "type": "console"
+    }
+  },
+  "releases": [
+    {
+      "name": "kanyu",
+      "description": "This is the latest patch for version kanyu. Check out our website for more information @ www.soajs.org",
+      "label": "Kanyu",
+      "repositories": [
+        {
+          "repo": "soajs.controller",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.urac",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.oauth",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.multitenant",
+          "ver": "1.*"
+        },
+        {
+          "repo": "soajs.dashboard",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.dashboard.ui",
+          "ver": "2.*"
+        }
+      ]
+    },
+    {
+      "name": "stingray",
+      "description": "Coming soon",
+      "label": "Stingray",
+      "repositories": [
+        {
+          "repo": "soajs.controller",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.urac",
+          "ver": "3.*"
+        },
+        {
+          "repo": "soajs.oauth",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.multitenant",
+          "ver": "1.*"
+        },
+        {
+          "repo": "soajs.dashboard",
+          "ver": "2.*"
+        },
+        {
+          "repo": "soajs.dashboard.ui",
+          "ver": "3.*"
+        }
+      ],
+      "upgrade": {
+        "from": [
+          "kanyu"
+        ],
+        "kanyu": {
+          "allowed": true,
+          "description": "Kanyu to Stingray is allowed and our migration scripts will handle all backward compatibilities issues transparently",
+          "prerequisite": {
+            "installer": {
+              "version": "4.0.0",
+              "migration": [
+                "to_acl_v3"
+              ]
+            }
+          }
+        }
+      }
+    }
+  ]
+}
