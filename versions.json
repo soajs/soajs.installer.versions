@@ -40,27 +40,27 @@
       "repositories": [
         {
           "repo": "soajs.controller",
-          "ver": "2.*"
+          "ver": "2.x"
         },
         {
           "repo": "soajs.urac",
-          "ver": "2.*"
+          "ver": "2.x"
         },
         {
           "repo": "soajs.oauth",
-          "ver": "2.*"
+          "ver": "2.x"
         },
         {
           "repo": "soajs.multitenant",
-          "ver": "1.*"
+          "ver": "1.x"
         },
         {
           "repo": "soajs.dashboard",
-          "ver": "2.*"
+          "ver": "2.x"
         },
         {
           "repo": "soajs.dashboard.ui",
-          "ver": "2.*"
+          "ver": "2.x"
         }
       ]
     },
@@ -71,11 +71,11 @@
       "repositories": [
         {
           "repo": "soajs.controller",
-          "ver": "2.*"
+          "ver": "2.x"
         },
         {
           "repo": "soajs.urac",
-          "ver": "3.*"
+          "ver": "3.x"
         },
         {
           "repo": "soajs.oauth",
@@ -83,15 +83,15 @@
         },
         {
           "repo": "soajs.multitenant",
-          "ver": "1.*"
+          "ver": "1.x"
         },
         {
           "repo": "soajs.dashboard",
-          "ver": "2.*"
+          "ver": "2.x"
         },
         {
           "repo": "soajs.dashboard.ui",
-          "ver": "3.*"
+          "ver": "3.x"
         }
       ],
       "upgrade": {
