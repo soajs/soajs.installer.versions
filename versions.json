@@ -36,7 +36,10 @@
     {
       "name": "kanyu",
       "patch": "3",
-      "previousPatches": ["2", "1"],
+      "previousPatches": [
+        "2",
+        "1"
+      ],
       "description": "This is the latest patch for version kanyu. Check out our website for more information @ www.soajs.org",
       "label": "Kanyu",
       "repositories": [
@@ -68,6 +71,8 @@
     },
     {
       "name": "stingray",
+      "patch": "1",
+      "previousPatches": [],
       "description": "Coming soon",
       "label": "Stingray",
       "repositories": [
