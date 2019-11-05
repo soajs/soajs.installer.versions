@@ -35,6 +35,7 @@
   "releases": [
     {
       "name": "kanyu",
+      "patch": "kanyu 4",
       "description": "This is the latest patch for version kanyu. Check out our website for more information @ www.soajs.org",
       "label": "Kanyu",
       "repositories": [
