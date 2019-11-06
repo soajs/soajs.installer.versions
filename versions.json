@@ -35,8 +35,9 @@
   "releases": [
     {
       "name": "kanyu",
-      "patch": "3",
+      "patch": "4",
       "previousPatches": [
+        "3",
         "2",
         "1"
       ],
@@ -45,7 +46,7 @@
       "repositories": [
         {
           "repo": "soajs.controller",
-          "ver": "2.x"
+          "ver": "3.x"
         },
         {
           "repo": "soajs.urac",
