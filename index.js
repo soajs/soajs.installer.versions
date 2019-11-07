@@ -64,6 +64,28 @@ const releaseModule = {
 		}
 	},
 	
+	"getServiceVersions": () => {
+		if (!versionsInfo || !versionsInfo.serviceVersions) {
+			return null;
+		}
+		let response = {
+			"services": [],
+			"versions": {},
+			"info": [],
+			"packs":{}
+		};
+		for (let i = 0; i < versionsInfo.serviceVersions.length; i++) {
+			let availableService = versionsInfo.serviceVersions[i];
+			response.services.push(availableService.service);
+			response.versions[availableService.service] = availableService.versions;
+			response.packs[availableService.service] = availableService.pack;
+			for (let i = 0; i < availableService.versions.length; i++) {
+				response.info.push("[" + availableService.service + " version: " + availableService.versions[i].label + "]");
+			}
+		}
+		return response;
+	},
+	
 	/**
 	 * Coming soon
 	 *

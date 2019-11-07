@@ -32,6 +32,18 @@
       "type": "console"
     }
   },
+  "serviceVersions": [
+    {
+      "service": "urac",
+      "pack":"soajs.urac",
+      "versions": [
+        {
+          "label": "3",
+          "version": "3.x"
+        }
+      ]
+    }
+  ],
   "releases": [
     {
       "name": "kanyu",
