@@ -35,7 +35,7 @@
   "serviceVersions": [
     {
       "service": "urac",
-      "pack":"soajs.urac",
+      "pack": "soajs.urac",
       "versions": [
         {
           "label": "3",
@@ -47,11 +47,21 @@
   "releases": [
     {
       "name": "kanyu",
-      "patch": "4",
+      "patch": "5",
       "previousPatches": [
+        "4",
         "3",
         "2",
         "1"
+      ],
+      "prerequisite": [
+        {
+          "patch": "5",
+          "migration": [
+            "to_acl_v3",
+            "to_acl_v4"
+          ]
+        }
       ],
       "description": "This is the latest patch for version kanyu. Check out our website for more information @ www.soajs.org",
       "label": "Kanyu",
@@ -62,7 +72,7 @@
         },
         {
           "repo": "soajs.urac",
-          "ver": "2.x"
+          "ver": "3.x"
         },
         {
           "repo": "soajs.oauth",
@@ -119,6 +129,7 @@
           "kanyu"
         ],
         "kanyu": {
+          "patch": "6",
           "allowed": true,
           "description": "Kanyu to Stingray is allowed and our migration scripts will handle all backward compatibilities issues transparently",
           "prerequisite": {
