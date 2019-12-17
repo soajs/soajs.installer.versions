@@ -46,7 +46,9 @@ const releaseModule = {
 										"repo": repoInfo.repo,
 										"ver": repoInfo.ver,
 										"label": versionsInfo.serviceLabels[repoInfo.repo].label,
-										"type": versionsInfo.serviceLabels[repoInfo.repo].type
+										"type": versionsInfo.serviceLabels[repoInfo.repo].type,
+										"msVer": repoInfo.msVer,
+										"semVer": repoInfo.semVer
 									}
 								}
 							}
