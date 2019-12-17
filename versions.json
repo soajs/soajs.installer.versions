@@ -58,8 +58,7 @@
         {
           "patch": "5",
           "migration": [
-            "to_acl_v3",
-            "to_acl_v4"
+            "to_acl_v3"
           ]
         }
       ],
