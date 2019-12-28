@@ -28,7 +28,13 @@ const releaseModule = {
 			name = versionsInfo.latest;
 		}
 		if (!patch) {
-			patch = versionsInfo.patch;
+			if (name === versionsInfo.latest) {
+				patch = versionsInfo.patch;
+			} else if (versionsInfo.releaseLastPatch[name]) {
+				patch = versionsInfo.releaseLastPatch[name];
+			} else {
+				return null;
+			}
 		}
 		if (versionsInfo.releases && Array.isArray(versionsInfo.releases)) {
 			let services = null;
@@ -78,7 +84,7 @@ const releaseModule = {
 			"services": [],
 			"versions": {},
 			"info": [],
-			"packs":{}
+			"packs": {}
 		};
 		for (let i = 0; i < versionsInfo.serviceVersions.length; i++) {
 			let availableService = versionsInfo.serviceVersions[i];

@@ -1,6 +1,9 @@
 {
   "latest": "kanyu",
   "patch": "5",
+  "releaseLastPatch": {
+    "kanuy": "6"
+  },
   "serviceLabels": {
     "soajs.controller": {
       "label": "Gateway",
