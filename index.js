@@ -20,12 +20,15 @@ const releaseModule = {
 	 * @param name
 	 * @returns {*}
 	 */
-	"getVersionInfo": (name) => {
+	"getVersionInfo": (name, patch) => {
 		if (!versionsInfo || !versionsInfo.latest) {
 			return null;
 		}
 		if (!name) {
 			name = versionsInfo.latest;
+		}
+		if (!patch) {
+			patch = versionsInfo.patch;
 		}
 		if (versionsInfo.releases && Array.isArray(versionsInfo.releases)) {
 			let services = null;
@@ -33,7 +36,7 @@ const releaseModule = {
 			for (let i = 0; i < versionsInfo.releases.length; i++) {
 				let ver = versionsInfo.releases[i];
 				if (ver) {
-					if (ver.name === name) {
+					if (ver.name === name && ver.patch === patch) {
 						if (ver.repositories && Array.isArray(ver.repositories)) {
 							release = ver;
 							for (let i = 0; i < ver.repositories.length; i++) {
@@ -53,6 +56,7 @@ const releaseModule = {
 								}
 							}
 						}
+						break;
 					}
 				}
 			}
