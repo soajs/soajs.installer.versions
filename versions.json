@@ -175,7 +175,7 @@
           "repo": "soajs.multitenant",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.12"
+          "semVer": "1.1.0"
         },
         {
           "repo": "soajs.dashboard",
