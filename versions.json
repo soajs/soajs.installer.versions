@@ -157,7 +157,7 @@
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.12"
+          "semVer": "3.0.13"
         },
         {
           "repo": "soajs.urac",
