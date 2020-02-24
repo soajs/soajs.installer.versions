@@ -157,31 +157,31 @@
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.25"
+          "semVer": "3.0.26"
         },
         {
           "repo": "soajs.urac",
           "ver": "3.x",
           "msVer": 3,
-          "semVer": "3.0.27"
+          "semVer": "3.0.28"
         },
         {
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.6.9"
+          "semVer": "2.6.10"
         },
         {
           "repo": "soajs.multitenant",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.1.9"
+          "semVer": "1.1.10"
         },
         {
           "repo": "soajs.dashboard",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.42"
+          "semVer": "2.7.43"
         },
         {
           "repo": "soajs.dashboard.ui",
