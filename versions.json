@@ -181,12 +181,12 @@
           "repo": "soajs.dashboard",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.43"
+          "semVer": "2.7.44"
         },
         {
           "repo": "soajs.dashboard.ui",
           "ver": "2.x",
-          "semVer": "2.7.42"
+          "semVer": "2.7.43"
         }
       ]
     },
