@@ -169,7 +169,7 @@
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.6.11"
+          "semVer": "2.6.12"
         },
         {
           "repo": "soajs.multitenant",
@@ -186,7 +186,7 @@
         {
           "repo": "soajs.dashboard.ui",
           "ver": "2.x",
-          "semVer": "2.7.43"
+          "semVer": "2.7.44"
         }
       ]
     },
