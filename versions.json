@@ -157,7 +157,7 @@
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.26"
+          "semVer": "3.0.27"
         },
         {
           "repo": "soajs.urac",
@@ -169,7 +169,7 @@
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.6.12"
+          "semVer": "2.6.13"
         },
         {
           "repo": "soajs.multitenant",
