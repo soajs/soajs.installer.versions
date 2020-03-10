@@ -175,18 +175,18 @@
           "repo": "soajs.multitenant",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.1.11"
+          "semVer": "1.1.12"
         },
         {
           "repo": "soajs.dashboard",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.47"
+          "semVer": "2.7.48"
         },
         {
           "repo": "soajs.dashboard.ui",
           "ver": "2.x",
-          "semVer": "2.7.55"
+          "semVer": "2.7.56"
         }
       ]
     },
