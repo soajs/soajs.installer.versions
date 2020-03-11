@@ -169,19 +169,19 @@
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.6.15"
+          "semVer": "2.6.16"
         },
         {
           "repo": "soajs.multitenant",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.1.12"
+          "semVer": "1.1.13"
         },
         {
           "repo": "soajs.dashboard",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.48"
+          "semVer": "2.7.49"
         },
         {
           "repo": "soajs.dashboard.ui",
