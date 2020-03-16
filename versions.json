@@ -181,7 +181,7 @@
           "repo": "soajs.dashboard",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.50"
+          "semVer": "2.7.51"
         },
         {
           "repo": "soajs.dashboard.ui",
