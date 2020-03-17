@@ -157,7 +157,7 @@
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.30"
+          "semVer": "3.0.31"
         },
         {
           "repo": "soajs.urac",
@@ -181,7 +181,7 @@
           "repo": "soajs.dashboard",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.51"
+          "semVer": "2.7.52"
         },
         {
           "repo": "soajs.dashboard.ui",
