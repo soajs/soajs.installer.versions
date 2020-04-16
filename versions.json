@@ -157,13 +157,13 @@
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.1.8"
+          "semVer": "3.1.9"
         },
         {
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.2"
+          "semVer": "2.7.3"
         },
         {
           "repo": "soajs.multitenant",
