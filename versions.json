@@ -163,19 +163,19 @@
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.3"
+          "semVer": "2.7.5"
         },
         {
           "repo": "soajs.multitenant",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.2.0"
+          "semVer": "1.2.1"
         },
         {
           "repo": "soajs.urac",
           "ver": "3.x",
           "msVer": 3,
-          "semVer": "3.1.1"
+          "semVer": "3.1.3"
         },
         {
           "repo": "soajs.dashboard",
