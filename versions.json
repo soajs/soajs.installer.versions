@@ -205,32 +205,32 @@
       "name": "stingray",
       "patch": "1",
       "previousPatches": [],
-      "description": "Coming soon",
+      "description": "This is an ALPHA version of the new soajs console.",
       "label": "Stingray",
       "repositories": [
         {
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.1.17"
+          "semVer": "4.0.0"
         },
         {
           "repo": "soajs.oauth",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.7.13"
+          "semVer": "3.0.0"
         },
         {
           "repo": "soajs.multitenant",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.2.6"
+          "semVer": "2.0.0"
         },
         {
           "repo": "soajs.urac",
           "ver": "3.x",
           "msVer": 3,
-          "semVer": "3.1.12"
+          "semVer": "4.0.0"
         },
         {
           "repo": "soajs.repositories",
