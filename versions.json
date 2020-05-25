@@ -168,7 +168,7 @@
           "repo": "soajs.controller",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.1.17"
+          "semVer": "3.1.18"
         },
         {
           "repo": "soajs.oauth",
