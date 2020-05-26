@@ -36,6 +36,11 @@
       "service": "marketplace",
       "type": "console"
     },
+    "soajs.infra": {
+      "label": "Console",
+      "service": "infra",
+      "type": "console"
+    },
     "soajs.dashboard": {
       "label": "Console",
       "service": "dashboard",
@@ -248,7 +253,7 @@
           "repo": "soajs.infra",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.0"
+          "semVer": "1.0.1"
         },
         {
           "repo": "soajs.dashboard",
