@@ -222,7 +222,7 @@
           "repo": "soajs.controller",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.0.8"
+          "semVer": "4.0.9"
         },
         {
           "repo": "soajs.oauth",
