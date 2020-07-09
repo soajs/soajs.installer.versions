@@ -27,17 +27,17 @@
       "type": "console"
     },
     "soajs.repositories": {
-      "label": "Console",
+      "label": "Repositories",
       "service": "repositories",
       "type": "console"
     },
     "soajs.marketplace": {
-      "label": "Console",
+      "label": "Marketplace",
       "service": "marketplace",
       "type": "console"
     },
     "soajs.infra": {
-      "label": "Console",
+      "label": "Infra",
       "service": "infra",
       "type": "console"
     },
@@ -47,7 +47,7 @@
       "type": "console"
     },
     "soajs.dashboard": {
-      "label": "Console",
+      "label": "Dashboard",
       "service": "dashboard",
       "type": "console"
     },
@@ -214,9 +214,10 @@
     {
       "name": "stingray",
       "patch": "1",
-      "previousPatches": [],
       "description": "This is an ALPHA version of the new soajs console.",
       "label": "Stingray",
+      "previousPatches": [],
+      "prerequisite": [],
       "repositories": [
         {
           "repo": "soajs.controller",
@@ -275,6 +276,7 @@
         {
           "repo": "soajs.dashboard.ui",
           "ver": "3.x",
+          "msVer": 1,
           "semVer": "3.0.7"
         }
       ],
