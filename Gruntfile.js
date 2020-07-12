@@ -95,7 +95,7 @@ module.exports = (grunt) => {
 				}
 			},
 			files: {
-				src: ['Gruntfile.js', 'libexec/index.js', 'libexec/utils/*.js', 'libexec/services/*.js', 'libexec/model/*.js', 'libexec/migrate/*.js', 'libexec/importer/*.js', 'libexec/driver/kubernetes/*.js']
+				src: ['Gruntfile.js', 'index.js']
 			},
 			gruntfile: {
 				src: 'Gruntfile.js'

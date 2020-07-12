@@ -58,7 +58,7 @@ const releaseModule = {
 										"type": versionsInfo.serviceLabels[repoInfo.repo].type,
 										"msVer": repoInfo.msVer,
 										"semVer": repoInfo.semVer
-									}
+									};
 								}
 							}
 						}
@@ -68,7 +68,7 @@ const releaseModule = {
 			}
 			// we want to make sure services.ui is there since this is being used in installer.local
 			if (services && release && services.ui) {
-				release.services = services
+				release.services = services;
 			}
 			return release;
 		} else {
@@ -106,6 +106,8 @@ const releaseModule = {
 	 * @returns {null}
 	 */
 	"update2Version": (from, to) => {
+		console.log(from);
+		console.log(to);
 		return null;
 	}
 };
