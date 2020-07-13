@@ -223,7 +223,7 @@
           "repo": "soajs.controller",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.0.18"
+          "semVer": "4.0.19"
         },
         {
           "repo": "soajs.oauth",
