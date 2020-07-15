@@ -277,7 +277,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.11"
+          "semVer": "3.0.12"
         }
       ],
       "upgrade": {
