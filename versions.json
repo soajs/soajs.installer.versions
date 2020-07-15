@@ -223,7 +223,7 @@
           "repo": "soajs.controller",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.0.19"
+          "semVer": "4.0.20"
         },
         {
           "repo": "soajs.oauth",
@@ -235,25 +235,25 @@
           "repo": "soajs.multitenant",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.0.10"
+          "semVer": "2.0.11"
         },
         {
           "repo": "soajs.urac",
           "ver": "4.x",
           "msVer": 3,
-          "semVer": "4.0.10"
+          "semVer": "4.0.11"
         },
         {
           "repo": "soajs.marketplace",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.10"
+          "semVer": "1.0.11"
         },
         {
           "repo": "soajs.repositories",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.8"
+          "semVer": "1.0.9"
         },
         {
           "repo": "soajs.infra",
@@ -277,7 +277,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.10"
+          "semVer": "3.0.11"
         }
       ],
       "upgrade": {
