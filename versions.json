@@ -265,7 +265,7 @@
           "repo": "soajs.console",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.10"
+          "semVer": "1.0.11"
         },
         {
           "repo": "soajs.dashboard",
