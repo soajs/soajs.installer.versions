@@ -247,7 +247,7 @@
           "repo": "soajs.marketplace",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.18"
+          "semVer": "1.0.19"
         },
         {
           "repo": "soajs.repositories",
