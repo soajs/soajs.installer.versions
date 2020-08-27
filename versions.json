@@ -247,7 +247,7 @@
           "repo": "soajs.marketplace",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.21"
+          "semVer": "1.0.22"
         },
         {
           "repo": "soajs.repositories",
@@ -277,7 +277,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.29"
+          "semVer": "3.0.30"
         }
       ],
       "upgrade": {
