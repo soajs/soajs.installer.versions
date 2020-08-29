@@ -214,7 +214,7 @@
     {
       "name": "stingray",
       "patch": "1",
-      "description": "This is an ALPHA version of the new soajs console.",
+      "description": "The complete new soajs console with tons of new features.",
       "label": "Stingray",
       "previousPatches": [],
       "prerequisite": [],
@@ -277,7 +277,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.30"
+          "semVer": "3.0.31"
         }
       ],
       "upgrade": {
