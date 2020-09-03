@@ -304,7 +304,9 @@
       "patch": "2",
       "description": "Stingray 2 is all about application catalog and more multitenancy",
       "label": "Stingray",
-      "previousPatches": [],
+      "previousPatches": [
+        "1"
+      ],
       "prerequisite": [],
       "repositories": [
         {
