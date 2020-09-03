@@ -1,6 +1,6 @@
 {
   "latest": "stingray",
-  "patch": "1",
+  "patch": "2",
   "releaseLastPatch": {
     "kanyu": "6",
     "stingray": "1"
@@ -298,6 +298,76 @@
           }
         }
       }
+    },
+    {
+      "name": "stingray",
+      "patch": "2",
+      "description": "Stingray 2 is all about application catalog and more multitenancy",
+      "label": "Stingray",
+      "previousPatches": [],
+      "prerequisite": [],
+      "repositories": [
+        {
+          "repo": "soajs.controller",
+          "ver": "4.x",
+          "msVer": 1,
+          "semVer": "4.0.23"
+        },
+        {
+          "repo": "soajs.oauth",
+          "ver": "3.x",
+          "msVer": 1,
+          "semVer": "3.0.13"
+        },
+        {
+          "repo": "soajs.multitenant",
+          "ver": "2.x",
+          "msVer": 1,
+          "semVer": "2.0.13"
+        },
+        {
+          "repo": "soajs.urac",
+          "ver": "4.x",
+          "msVer": 3,
+          "semVer": "4.0.13"
+        },
+        {
+          "repo": "soajs.marketplace",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.22"
+        },
+        {
+          "repo": "soajs.repositories",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.15"
+        },
+        {
+          "repo": "soajs.infra",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.11"
+        },
+        {
+          "repo": "soajs.console",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.15"
+        },
+        {
+          "repo": "soajs.dashboard",
+          "ver": "3.x",
+          "msVer": 1,
+          "semVer": "3.0.11"
+        },
+        {
+          "repo": "soajs.dashboard.ui",
+          "ver": "3.x",
+          "msVer": 1,
+          "semVer": "3.0.32"
+        }
+      ]
     }
   ]
 }
