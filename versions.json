@@ -325,7 +325,7 @@
           "repo": "soajs.multitenant",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.0.17"
+          "semVer": "2.0.18"
         },
         {
           "repo": "soajs.urac",
@@ -337,7 +337,7 @@
           "repo": "soajs.marketplace",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.28"
+          "semVer": "1.0.29"
         },
         {
           "repo": "soajs.repositories",
