@@ -349,7 +349,7 @@
           "repo": "soajs.infra",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.13"
+          "semVer": "1.0.14"
         },
         {
           "repo": "soajs.console",
