@@ -331,7 +331,7 @@
           "repo": "soajs.urac",
           "ver": "4.x",
           "msVer": 3,
-          "semVer": "4.0.14"
+          "semVer": "4.0.15"
         },
         {
           "repo": "soajs.marketplace",
@@ -349,7 +349,7 @@
           "repo": "soajs.infra",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.14"
+          "semVer": "1.0.15"
         },
         {
           "repo": "soajs.console",
