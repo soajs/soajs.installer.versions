@@ -325,13 +325,13 @@
           "repo": "soajs.multitenant",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.0.21"
+          "semVer": "2.0.22"
         },
         {
           "repo": "soajs.urac",
           "ver": "4.x",
           "msVer": 3,
-          "semVer": "4.0.18"
+          "semVer": "4.0.19"
         },
         {
           "repo": "soajs.marketplace",
@@ -367,7 +367,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.0.53"
+          "semVer": "3.0.54"
         }
       ]
     }
