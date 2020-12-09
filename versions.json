@@ -313,7 +313,7 @@
           "repo": "soajs.controller",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.0.31"
+          "semVer": "4.0.32"
         },
         {
           "repo": "soajs.oauth",
@@ -337,7 +337,7 @@
           "repo": "soajs.marketplace",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.34"
+          "semVer": "1.0.35"
         },
         {
           "repo": "soajs.repositories",
