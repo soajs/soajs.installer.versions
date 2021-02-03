@@ -343,7 +343,7 @@
           "repo": "soajs.repositories",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.19"
+          "semVer": "1.0.20"
         },
         {
           "repo": "soajs.infra",
