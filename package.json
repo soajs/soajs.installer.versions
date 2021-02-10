@@ -1,7 +1,7 @@
 {
   "name": "soajs.installer.versions",
   "description": "soajs installer versions",
-  "version": "1.2.76",
+  "version": "1.2.77",
   "author": {
     "name": "soajs team",
     "email": "team@soajs.org"
