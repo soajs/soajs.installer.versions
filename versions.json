@@ -1,9 +1,9 @@
 {
   "latest": "stingray",
-  "patch": "2",
+  "patch": "3",
   "releaseLastPatch": {
     "kanyu": "6",
-    "stingray": "1"
+    "stingray": "2"
   },
   "serviceLabels": {
     "soajs.controller": {
@@ -362,6 +362,72 @@
           "ver": "3.x",
           "msVer": 1,
           "semVer": "3.0.61"
+        }
+      ]
+    },
+    {
+      "name": "stingray",
+      "patch": "3",
+      "description": "Stingray 3 the new SOAJS UI built with react",
+      "label": "Stingray",
+      "previousPatches": [
+        "1", "2"
+      ],
+      "prerequisite": [],
+      "repositories": [
+        {
+          "repo": "soajs.controller",
+          "ver": "4.x",
+          "msVer": 1,
+          "semVer": "4.0.37"
+        },
+        {
+          "repo": "soajs.oauth",
+          "ver": "3.x",
+          "msVer": 1,
+          "semVer": "3.0.23"
+        },
+        {
+          "repo": "soajs.multitenant",
+          "ver": "2.x",
+          "msVer": 1,
+          "semVer": "2.0.31"
+        },
+        {
+          "repo": "soajs.urac",
+          "ver": "4.x",
+          "msVer": 3,
+          "semVer": "4.0.29"
+        },
+        {
+          "repo": "soajs.marketplace",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.40"
+        },
+        {
+          "repo": "soajs.repositories",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.24"
+        },
+        {
+          "repo": "soajs.infra",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.25"
+        },
+        {
+          "repo": "soajs.console",
+          "ver": "1.x",
+          "msVer": 1,
+          "semVer": "1.0.26"
+        },
+        {
+          "repo": "soajs.dashboard.ui",
+          "ver": "4.x",
+          "msVer": 1,
+          "semVer": "4.0.1"
         }
       ]
     }
