@@ -421,13 +421,13 @@
           "repo": "soajs.console",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.26"
+          "semVer": "1.0.27"
         },
         {
           "repo": "soajs.dashboard.ui",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.0.7"
+          "semVer": "4.0.8"
         }
       ]
     }
