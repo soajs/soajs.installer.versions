@@ -371,7 +371,8 @@
       "description": "Stingray 3 the new SOAJS UI built with react",
       "label": "Stingray",
       "previousPatches": [
-        "1", "2"
+        "1",
+        "2"
       ],
       "prerequisite": [],
       "repositories": [
@@ -427,7 +428,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.0.8"
+          "semVer": "4.0.9"
         }
       ]
     }
