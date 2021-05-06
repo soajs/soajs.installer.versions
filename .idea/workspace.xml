@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8655c7b1-b597-4267-9030-31edcd1f512d" name="Default Changelist" comment="" />
+    <list default="true" id="8655c7b1-b597-4267-9030-31edcd1f512d" name="Default Changelist" comment="bumped version to 1.3.18">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/versions.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,34 +293,11 @@
       <workItem from="1618754442280" duration="217000" />
       <workItem from="1618786268851" duration="128000" />
       <workItem from="1618787959605" duration="697000" />
-    </task>
-    <task id="LOCAL-00193" summary="bumped version to 1.2.53">
-      <created>1603914997948</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1603914997948</updated>
-    </task>
-    <task id="LOCAL-00194" summary="bumped version to 1.2.54">
-      <created>1603984942848</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1603984942848</updated>
-    </task>
-    <task id="LOCAL-00195" summary="bumped version to 1.2.55">
-      <created>1604006427163</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1604006427163</updated>
-    </task>
-    <task id="LOCAL-00196" summary="bumped version to 1.2.56">
-      <created>1604088233839</created>
-      <option name="number" value="00196" />
-      <option name="presentableId" value="LOCAL-00196" />
-      <option name="project" value="LOCAL" />
-      <updated>1604088233839</updated>
+      <workItem from="1618940876579" duration="149000" />
+      <workItem from="1619009447627" duration="94000" />
+      <workItem from="1619012450096" duration="37000" />
+      <workItem from="1619098173405" duration="4894000" />
+      <workItem from="1620306237937" duration="621000" />
     </task>
     <task id="LOCAL-00197" summary="bumped version to 1.2.57">
       <created>1604265344125</created>
@@ -633,7 +614,35 @@
       <option name="project" value="LOCAL" />
       <updated>1618788668503</updated>
     </task>
-    <option name="localTasksCounter" value="242" />
+    <task id="LOCAL-00242" summary="bumped version to 1.3.18">
+      <created>1618940907952</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1618940907952</updated>
+    </task>
+    <task id="LOCAL-00243" summary="bumped version to 1.3.18">
+      <created>1619009527665</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1619009527665</updated>
+    </task>
+    <task id="LOCAL-00244" summary="bumped version to 1.3.19">
+      <created>1619012479023</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1619012479023</updated>
+    </task>
+    <task id="LOCAL-00245" summary="bumped version to 1.3.20">
+      <created>1619105646438</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
+      <option name="project" value="LOCAL" />
+      <updated>1619105646438</updated>
+    </task>
+    <option name="localTasksCounter" value="246" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -675,10 +684,44 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bumped version to 1.2.77" />
-    <MESSAGE value="bumped version to 1.2.78" />
-    <MESSAGE value="bumped version to 1.2.79" />
     <MESSAGE value="bumped version to 1.2.80" />
     <MESSAGE value="bumped version to 1.2.81" />
     <MESSAGE value="bumped version to 1.2.82" />
@@ -701,7 +744,10 @@
     <MESSAGE value="bumped version to 1.3.13" />
     <MESSAGE value="bumped version to 1.3.14" />
     <MESSAGE value="bumped version to 1.3.15" />
-    <option name="LAST_COMMIT_MESSAGE" value="bumped version to 1.3.15" />
+    <MESSAGE value="bumped version to 1.3.18" />
+    <MESSAGE value="bumped version to 1.3.19" />
+    <MESSAGE value="bumped version to 1.3.20" />
+    <option name="LAST_COMMIT_MESSAGE" value="bumped version to 1.3.20" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../../../demo/soajs.installer/etc/config.js">
