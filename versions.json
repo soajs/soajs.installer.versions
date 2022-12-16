@@ -404,13 +404,13 @@
           "repo": "soajs.marketplace",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.49"
+          "semVer": "1.0.50"
         },
         {
           "repo": "soajs.repositories",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.0.29"
+          "semVer": "1.0.30"
         },
         {
           "repo": "soajs.infra",
