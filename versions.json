@@ -392,13 +392,13 @@
           "repo": "soajs.multitenant",
           "ver": "2.x",
           "msVer": 1,
-          "semVer": "2.1.2"
+          "semVer": "2.1.3"
         },
         {
           "repo": "soajs.urac",
           "ver": "4.x",
           "msVer": 3,
-          "semVer": "4.1.3"
+          "semVer": "4.1.4"
         },
         {
           "repo": "soajs.marketplace",
