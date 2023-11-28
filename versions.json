@@ -386,7 +386,7 @@
           "repo": "soajs.oauth",
           "ver": "3.x",
           "msVer": 1,
-          "semVer": "3.1.4"
+          "semVer": "3.1.5"
         },
         {
           "repo": "soajs.multitenant",
@@ -398,7 +398,7 @@
           "repo": "soajs.urac",
           "ver": "4.x",
           "msVer": 3,
-          "semVer": "4.1.5"
+          "semVer": "4.1.6"
         },
         {
           "repo": "soajs.marketplace",
@@ -416,7 +416,7 @@
           "repo": "soajs.infra",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.1.4"
+          "semVer": "1.1.5"
         },
         {
           "repo": "soajs.console",
@@ -428,7 +428,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.2.4"
+          "semVer": "4.2.5"
         }
       ]
     }
