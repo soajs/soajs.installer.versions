@@ -416,7 +416,7 @@
           "repo": "soajs.infra",
           "ver": "1.x",
           "msVer": 1,
-          "semVer": "1.1.11"
+          "semVer": "1.1.12"
         },
         {
           "repo": "soajs.console",
@@ -428,7 +428,7 @@
           "repo": "soajs.dashboard.ui",
           "ver": "4.x",
           "msVer": 1,
-          "semVer": "4.2.6"
+          "semVer": "4.2.7"
         }
       ]
     }
